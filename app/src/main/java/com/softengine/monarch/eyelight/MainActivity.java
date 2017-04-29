@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     // GPSManager class
     GPSManager gps;
+/***deneme
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
